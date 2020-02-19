@@ -7,10 +7,10 @@
       <p><b>本科生</b></p>
       <p><b浙江万里学院</b></p>
       <p><b>邮箱：810365919@qq.com</b></p>
-      <p><b>地址：宁波市鄞州区钱湖北路浙江万里大学，53楼，邮编×××</b></p>
+      <p><b>地址：宁波市鄞州区钱湖北路浙江万里学院，53楼，</b></p>
     </td>
     <td width="25%">
-     <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码    
+     <img src="/zhengjianzhao.JPG" width="100%">      % 插入证件照代码    
     </td>
   </tr>
 </table>
