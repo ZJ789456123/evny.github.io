@@ -8,7 +8,7 @@
       <p><b>微信：feiyedeng_8</b></p>
     </td>
     <td width="25%">
-      <img src="/FYD.jpg" width="110%"higth="110%">      
+      <img src="/FYD.jpg" width="110%">      
     </td>
   </tr>
 </table>
