@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-     <img src="/FYD.jpg" width="110%"height="100">  
+      <img src="/FYD.jpg" width="100%">      
     </td>
     <td width="75%">
     <h1>费耶灯</h1>
