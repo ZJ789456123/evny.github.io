@@ -15,11 +15,11 @@
 ------------------------
 
   考研复习中，请勿打扰！！！
-  | Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+  |  **研究方向 **    |    Are           Cool  
+| ------------- |:-------------:| -----:
+| col 3 is      | right-aligned  $1600 
+| col 2 is      | centered        $12 
+| zebra stripes | are neat         $1 
 ————————————————
 
 
