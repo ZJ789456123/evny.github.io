@@ -8,11 +8,18 @@
       <p><b>微信：feiyedeng_8</b></p>
     </td>
     <td width="25%">
-      <img src="/FYD.jpg" width="100%">      
+      <img src="/FYD.jpg" width="110%"higth="110%">      
     </td>
   </tr>
 </table>
 ————————————————
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+————————————————
+
 ----------------------
 |  <font color="#000066">**专业领域**</font><br />  | _网络编程技术 网络安全管理_  
 | ------------- |:------------------          
