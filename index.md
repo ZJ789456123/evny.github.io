@@ -17,7 +17,8 @@
 <table border="0">
   <tr>
     <td width="75%">
-      |  <font color="#00dddd">**专业领域**</font><br />| _网络编程技术 网络安全管理_  
+————————————————
+|  <font color="#00dddd">**专业领域**</font><br />| _网络编程技术 网络安全管理_  
 | ------------- |------------------          
 | <font color="#00dddd">研究方向</font><br />| _智能工程/区块链技术_
 | <font color="#00dddd">研究项目</font><br />   | _智能车_
