@@ -10,7 +10,7 @@
       <p><b>地址：宁波市鄞州区钱湖北路浙江万里学院，53楼，</b></p>
     </td>
     <td width="25%">
-     <img src="/zhengjianzhao.JPG" width="100%">      % 插入证件照代码    
+     <img src="/FYD.jpg" width="100%">      % 插入证件照代码    
     </td>
   </tr>
 </table>
