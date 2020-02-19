@@ -1,15 +1,14 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="/FYD.jpg" width="110%"height="100">  
-      
+     <img src="/FYD.jpg" width="110%"height="100">  
     </td>
     <td width="75%">
-      <h1>费耶灯</h1>
+    <h1>费耶灯</h1>
       <p><b>本科生</b></p>
       <p><b>浙江万里学院</b></p>
       <p><b>邮箱：810365919@qq.com</b></p>
-      <p><b>地址：宁波市鄞州区首南中路</b></p>     
+      <p><b>地址：宁波市鄞州区首南中路</b></p>    
     </td>
   </tr>
 </table>
