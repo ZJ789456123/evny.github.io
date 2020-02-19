@@ -10,7 +10,7 @@
       <p><b>地址：宁波市鄞州区钱湖北路浙江万里大学，53楼，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="zhengjianzhao.jpg" width="100"/>    
+     <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码    
     </td>
   </tr>
 </table>
