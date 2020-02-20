@@ -36,7 +36,7 @@
   </tr>
 </table>
 ----------------------
-[学校官网](http://www.zwu.edu.cn/)                    <a href="mailto:email地址">EMAIL</a>
+[学校官网](http://www.zwu.edu.cn/)                    &emsp；<a href="mailto:810365919@qq.com">EMAIL</a>
 
 
 
