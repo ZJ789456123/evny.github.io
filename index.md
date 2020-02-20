@@ -38,7 +38,7 @@
 </table>
 ----------------------
 [学校官网](http://www.zwu.edu.cn/)                    
-<a href="mailto:810365919@qq.com">EMAIL</a>               <font color="#DC143C" size=12 >(考研复习中没事别烦我！！！)</font>
+<a href="mailto:810365919@qq.com">EMAIL</a>               <font color="#DC143C">(考研复习中没事别烦我！！！)</font><br />
 
 
 
