@@ -16,9 +16,9 @@
 ----------------------
 ————————————————
 
-|  <font color="#00dddd">涉猎专业</font><br />| _网络编程技术 网络安全管理_  _移动通信_  _光纤通信_   _C语言_   _通信技术原理_
+|  <font color="#00dddd">涉猎专业</font><br />|_[移动通信](https://baike.baidu.com/item/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/373026?fr=aladdin)_  _网络编程技术 网络安全管理_   _光纤通信_   _C语言_   _通信技术原理_
 | ------------- |------------------          
-| <font color="#00dddd">考研方向</font><br />| _智能工程/区块链技术_ _人工智能_   _网络编程技术 网络安全管理_   
+| <font color="#00dddd">考研方向</font><br />| _人工智能_  _智能工程/区块链技术_  _网络编程技术 网络安全管理_   
 | <font color="#00dddd">兴趣爱好</font><br />   | _创作_ _打乒乓_ _弹吉他_ _编辑视频_
 | <font color="#00dddd">荣誉奖励</font><br />    | _奖学金 三好学生 竞赛奖_ _礼仪先生_   _指弹大赛奖_  
 
@@ -36,7 +36,8 @@
   </tr>
 </table>
 ----------------------
-[学校官网](http://www.zwu.edu.cn/)                    &emsp；<a href="mailto:810365919@qq.com">EMAIL</a>
+[学校官网](http://www.zwu.edu.cn/)                    
+<a href="mailto:810365919@qq.com">EMAIL</a>
 
 
 
