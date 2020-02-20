@@ -17,11 +17,11 @@
 
 ————————————————
 
-|  <font color="#00dddd">涉猎专业</font><br />|_[移动通信](https://baike.baidu.com/item/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/373026?fr=aladdin)_  _网络编程技术 网络安全管理_   _[光纤通信](https://baike.baidu.com/item/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/80999)_   _C语言_   _通信技术原理_
-          
-| <font color="#00dddd">考研方向</font><br />| _[人工智能](https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/9180?fr=aladdin)_  _智能工程/[区块链技术](https://baike.baidu.com/item/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF)_  _网络编程技术 网络安全管理_   
-| <font color="#00dddd">兴趣爱好</font><br />   | _创作_ _打乒乓_ _弹吉他_ _编辑视频_
-| <font color="#00dddd">荣誉奖励</font><br />    | _奖学金 三好学生 竞赛奖_ _礼仪先生_   _指弹大赛奖_  
+|  <font color="#00dddd">**涉猎专业**</font><br />|_[移动通信](https://baike.baidu.com/item/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/373026?fr=aladdin)_  _网络编程技术 网络安全管理_   _[光纤通信](https://baike.baidu.com/item/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/80999)_   _C语言_   _通信技术原理_
+| ------------- |------------------          
+| <font color="#00dddd">**考研方向**</font><br />| _[人工智能](https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/9180?fr=aladdin)_  _智能工程/[区块链技术](https://baike.baidu.com/item/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF)_  _网络编程技术 网络安全管理_   
+| <font color="#00dddd">**兴趣爱好**</font><br />   | _创作_ _打乒乓_ _弹吉他_ _编辑视频_
+| <font color="#00dddd">**荣誉奖励**</font><br />    | _奖学金 三好学生 竞赛奖_ _礼仪先生_   _指弹大赛奖_  
 
 
 <table border="0">
