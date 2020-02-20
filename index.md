@@ -4,12 +4,12 @@
       <h1><font color="#0000dd">费耶灯</font><br /></h1>
       <p><b>出生日期：1999.03.30</b></p>
       <p><b>籍贯：汉</b></p>
-      <p><b>邮箱：810365919@qq.com</b></p>
+      <p><b>QQ：810365919</b></p>
       <p><b>微信：feiyedeng_8</b></p>
       <p><b>专业：通行工程</b></p>
     </td>
     <td width="25%">
-      <img src="/FYD1817.jpg" width="110%">      
+      <img src="/FYD.jpg" width="110%">      
     </td>
   </tr>
 </table>
@@ -36,7 +36,7 @@
   </tr>
 </table>
 ----------------------
-
+[学校官网](http://www.zwu.edu.cn/)                     [email](810365919@qq.com)
 
 
 
