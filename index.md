@@ -17,12 +17,10 @@
 <table border="0">
   <tr>
     <td width="75%">
-————————————————
-|  <font color="#00dddd">**专业领域**</font><br />| _网络编程技术 网络安全管理_  
-| ------------- |------------------          
-| <font color="#00dddd">研究方向</font><br />| _智能工程/区块链技术_
-| <font color="#00dddd">研究项目</font><br />   | _智能车_
-| <font color="#00dddd">荣誉奖励</font><br />    | _奖学金 三好学生 竞赛奖_
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
     </td>
     <td width="25%">
       <img src="/FYD.jpg" width="110%">      
