@@ -9,7 +9,7 @@
       <p><b>专业：通行工程</b></p>
     </td>
     <td width="25%">
-      <img src="/FYD.jpg" width="110%">      
+      <img src="/FYD1817.jpg" width="110%">      
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@
     </td>
     <td width="25%">
         <p><b>微信：公众号</b></p>
-      <img src="/FYD.jpg" width="110%">      
+      <img src="/gzh.jpg" width="110%">      
     </td>
   </tr>
 </table>
