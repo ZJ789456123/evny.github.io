@@ -15,7 +15,9 @@
       &nbsp; 
       <p><b>微信：feiyedeng_8</b></p>
       &nbsp; 
-      <p><b>专业：通行工程</b></p>
+      <p><b>专业：通信工程</b></p>
+      &nbsp;
+      <a href="/index-en.html">英文版</a>
     </td>
     <td width="25%">
       <img src="/FYD.jpg" width="110%">      
