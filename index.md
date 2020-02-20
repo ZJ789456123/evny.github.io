@@ -2,8 +2,12 @@
   <tr>
     <td width="75%">
       <h1><font color="#0000dd">费耶灯</font><br /></h1>
+      &nbsp; 
       <p><b>出生日期：1999.03.30</b></p>
+      &nbsp; 
       <p><b>籍贯：汉</b></p>
+       <p><b>住址：宁波市鄞州区中河街道</b></p>
+       <p><b>手机：13957334543</b></p>
       <p><b>QQ：810365919</b></p>
       <p><b>微信：feiyedeng_8</b></p>
       <p><b>专业：通行工程</b></p>
@@ -15,12 +19,12 @@
 </table>
 ----------------------
 
-| <font color="#00dddd">**擅长领域**</font><br />   | <font color="#00dddd">**擅长项目**</font><br /> 
+| **擅长领域**  | **擅长项目**
 | ------------- |------------------ 
-|  <font color="#00dddd">**涉猎专业**</font><br />|_[移动通信](https://baike.baidu.com/item/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/373026?fr=aladdin)_  _网络编程技术 网络安全管理_   _[光纤通信](https://baike.baidu.com/item/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/80999)_   _C语言_   _通信技术原理_         
-| <font color="#00dddd">**考研方向**</font><br />| _[人工智能](https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/9180?fr=aladdin)_  _智能工程/[区块链技术](https://baike.baidu.com/item/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF)_  _网络编程技术 网络安全管理_   
-| <font color="#00dddd">**兴趣爱好**</font><br />   | _创作_ _打乒乓_ _弹吉他_ _编辑视频_
-| <font color="#00dddd">**荣誉奖励**</font><br />    | _奖学金 三好学生 竞赛奖_ _礼仪先生_   _指弹大赛奖_  
+|  <font color="#FF00FF">涉猎专业</font><br />|_[移动通信](https://baike.baidu.com/item/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/373026?fr=aladdin)_  _网络编程技术 网络安全管理_   _[光纤通信](https://baike.baidu.com/item/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/80999)_   _C语言_   _通信技术原理_         
+| <font color="#FF00FF">**考研方向**</font><br />| _[人工智能](https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/9180?fr=aladdin)_  _智能工程/[区块链技术](https://baike.baidu.com/item/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF)_  _网络编程技术 网络安全管理_   
+| <font color="#FF00FF">**兴趣爱好**</font><br />   | _创作_ _打乒乓_ _弹吉他_ _编辑视频_
+| <font color="#FF00FF">**荣誉奖励**</font><br />    | _[奖学金](https://baike.baidu.com/item/%E5%A5%96%E5%AD%A6%E9%87%91) 三好学生 竞赛奖_ _礼仪先生_   _指弹大赛奖_  
 
 
 <table border="0">
